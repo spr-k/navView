@@ -14,7 +14,7 @@ struct ContentView: View {
             
             VStack {
                 Spacer()
-                Text("Are you a morning or night person?")
+                Text("Are you a morning or night personn?")
                     .font(.title2)
                     .fontWeight(.thin)
                     
